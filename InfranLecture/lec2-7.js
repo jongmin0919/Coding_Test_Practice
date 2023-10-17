@@ -33,7 +33,7 @@ function solution(arr){
             // flag가 참이면, 즉 해당 위치가 사면보다 높은 봉우리라면 answer를 증가시킵니다.
         }
     }  
-      
+// 설명 추가 완료
     return answer;
 }
 
